@@ -1,0 +1,6 @@
+Đây là nội dung của file nguồn.
+Dữ liệu sẽ được sao chép sang file mới.
+Họ và tên sinh viên: Nguyễn Hữu Minh.
+Lớp: 24IT2
+
+.................Hết................
